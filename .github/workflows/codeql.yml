@@ -60,6 +60,7 @@ jobs:
       uses: actions/setup-java@v3.11.0
       with:
         java-version: '17'
+        distribution: 'adopt'
     - run: ./build.sh
 
     # Perform CodeQL Analysis (Static Code Analysis)
