@@ -4,6 +4,7 @@
 
 - [x] Public repository
 - [x] SAST (Static Application Security Testing)
+- [x] 100% Test Coverage
 
 ### Static Application Security Testing by CodeQL
 
