@@ -1,5 +1,14 @@
 # Green Tesla for Green Code by ING
 
+### Requirements
+
+- [x] Public repository
+- [x] SAST (Static Application Security Testing)
+
+### Static Application Security Testing by CodeQL
+
+[![CodeQL](https://github.com/lfirek/pionteching/actions/workflows/codeql.yml/badge.svg)](https://github.com/lfirek/pionteching/actions/workflows/codeql.yml)
+
 ### Why this code is green?
 
 Each line of code has the potential to reduce your carbon footprint. All three tasks were accomplished with less than 140 lines of code!
